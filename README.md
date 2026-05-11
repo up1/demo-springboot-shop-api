@@ -2,7 +2,7 @@
 
 
 
-## Testing
+## Testing with concurrent transactions
 
 ```
 $ ./mvnw test
